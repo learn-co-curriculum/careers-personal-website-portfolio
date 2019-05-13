@@ -1,16 +1,18 @@
 # Personal Website/Portfolio  
 
 
-A personal website / portfolio is great way to build your brand as a competent developer. Your website / portfolio is a representation of what you are capable of. 
+A personal website / portfolio is great way to build your brand as a competent professional, especially in a new field. Your website / portfolio is a representation of what you are capable of. 
 
-Having an excellent personal website provides you with a powerful tool to communicate with the world at large (including potential employers and colleagues) highlights your experience and skills, and generates credibility for yourself and your brand as a web developer.  Your website/portfolio is a representation of what you are currently capable of, and the future direction as a professional you’re headed towards.  
+Having an excellent personal website provides you with a powerful tool to communicate with the world at large (including potential employers and colleagues) highlights your experience and skills, and generates credibility for yourself and your brand as a professional.  Your website/portfolio is a representation of what you are currently capable of, and the future direction as a professional you’re headed towards.  
 
 While there are limitless ways with which you can approach designing and producing your site, it’s important to consider what a potential employer looks for when they look at your portfolio.  Below we discuss some key steps and components to be mindful of as you proceed in building your site.
 
+*If you’re a student of software engineering, these best practices will especially apply to you.*
 
-## You're a Developer... So Develop Your Site!
 
-While it may be easier to utilize pre-existing website-building platforms or frameworks, you’ll want to code as much of your own website as possible. After all, you’re a web developer, and companies want to see that you know how to code a website! 
+## Show What You Know
+
+While it may be easier to utilize pre-existing website-building platforms or frameworks, if you’re a software engineering student you’ll want to code as much of your own website as possible. After all, you’re a developer, and companies want to see that you know how to code a website! 
 
 Especially if you are pursuing primarily front end and/or design-oriented developer roles, you should ideally be coding your own site from scratch and ensure that the site shows that you have an eye for UI/UX, since the site itself serves as a portfolio piece.
 
@@ -35,13 +37,13 @@ You’ve likely worked with your Career Coach previously to craft a personal bio
 
 ## Technical Projects
 
-The most important thing to highlight and share on your website are your Technical Projects.  You can outline projects you’ve developed for personal, professional, contest, and hackathon projects.  Each project should have its own page once clicked on, with a description of what the project is, plus a link to Git repository, video demo, and a link to the fully deployed app.
+The most important thing to highlight and share on your website are your Technical Projects.  You can outline projects you’ve developed for personal, professional, contest, and hackathon projects.  Each project should have its own page once clicked on, with a description of what the project is, plus a link to Git repository, video demo (a *must* for software engineering students), and a link to the fully deployed app/project.
 
 Some additional features you can include in a personal website are photos of yourself, your experience and education/resume, professional services you offer (for example, website building or tutoring), and contact information.
 
 ## Technical Blog
 
-You should also feature your tech blog on your site, providing a link to your existing blog or moving and publishing the blog on your new site.  This conveys to visitors that you are regularly coding, learning, and growing your skills as a developer.
+You should also feature your tech blog on your site, providing a link to your existing blog or moving and publishing the blog on your new site.  This conveys to visitors that you are regularly coding, learning, and growing your skills.
 
 ## Share Relevant Platforms/Build Your Brand
 
@@ -53,7 +55,7 @@ Make it quick and easy for visitors to contact and engage with you.  Include you
 
 ## Include Personal Touches
 
-Consider what you can include to truly personalize your visitors’ experience, so they can begin to connect with you in meaningful ways. Some ideas include including your personal bucket list, recent noteworthy accomplishments, a reading list of great books you recommend, your top-10 list of favorite meetups, adding pages for personal appearances such as “Speaking” and “Media” which help identify you as a thought leader and expert in your domain.   Also consider features like fun, personalized & attention-getting dialogue boxes, links to outside resources you like, or a fun professional title for yourself (“Indefatigable Problem Solver”).  You could also include additional languages you speak, and have an on-site translator in that language.
+Consider what you can include to truly personalize your visitors’ experience, so they can begin to connect with you in meaningful ways. Some ideas include your personal bucket list, recent noteworthy accomplishments, a reading list of great books you recommend, your top-10 list of favorite meetups, adding pages for personal appearances such as “Speaking” and “Media” which help identify you as a thought leader and expert in your domain.   Also consider features like fun, personalized & attention-getting dialogue boxes, links to outside resources you like, or a fun professional title for yourself (“Indefatigable Problem Solver”).  You could also include additional languages you speak, and have an on-site translator in that language.
 
 ## Promote Your Site!
 
